@@ -14,3 +14,8 @@ https://docs.google.com/uc?export=download&id=1LYw_wl5ftE4ejhFPFpfar4lt1HvNKZgN
 
 Visit this website : http://www.manythings.org/anki/ if you want to try more dataset of  Bilingual Sentence Pairs
 they all have the same structure ( Tab-delimited Bilingual Sentence Pairs )
+
+# useful links
+
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/
