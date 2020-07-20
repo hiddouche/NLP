@@ -21,3 +21,5 @@ https://machinelearningmastery.com/tutorial-first-neural-network-python-keras
 
 https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/
 
+https://en.wikipedia.org/wiki/Recurrent_neural_network
+
