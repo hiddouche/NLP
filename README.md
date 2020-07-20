@@ -17,5 +17,7 @@ they all have the same structure ( Tab-delimited Bilingual Sentence Pairs )
 
 # useful links
 
-https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras
+
 https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/
+
