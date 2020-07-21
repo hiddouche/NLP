@@ -1,3 +1,6 @@
+# observation 
+this work is in collaboration with my friend youssef lachhab so I collaborated with him for his project  [forked link](https://github.com/hiddouche/IDDL) !   [original link](https://github.com/youssef-lachhab/IDDL) !  
+
 
 # Neural machine translation system
  Machine translation is a challenging task that traditionally involves large statistical models developed using highly sophisticated linguistic knowledge.
