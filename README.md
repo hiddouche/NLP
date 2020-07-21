@@ -1,5 +1,5 @@
 # observation 
-this work is in collaboration with my friend Youssef Lachhab so I collaborated with him for his project  [forked link](https://github.com/hiddouche/IDDL) !   [original link](https://github.com/youssef-lachhab/IDDL) !  
+this work is in collaboration with my friend Youssef Lachhab so I collaborated with him for his project    [Predict tags on StackOverflow with linear models](https://github.com/youssef-lachhab/IDDL) !  
 
 
 # Neural machine translation system
