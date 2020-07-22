@@ -18,13 +18,14 @@ they all have the same structure ( Tab-delimited Bilingual Sentence Pairs )
 
 # Useful links
 
-[tuto of neural network with python-keras](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras)
+[Tuto of neural network with python-keras](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras)
 
-[how to develop a neural machine translation system](https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/)
-
-[wiki](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+[How to develop a neural machine translation system](https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/)
 
 [Neural machine translation with attention](https://www.tensorflow.org/tutorials/text/nmt_with_attention)
+
+
+[Wikipedia](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 
 
 
