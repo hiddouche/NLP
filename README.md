@@ -13,14 +13,15 @@ In this project , we  will discover how to develop a neural machine translation 
 and during the runtime of  this notebook on google colab I load it in  colab system space
 
 
-Visit this website : http://www.manythings.org/anki/ if you want to try more dataset of  Bilingual Sentence Pairs
+Visit this website : [Bilingual Sentence Pairs](http://www.manythings.org/anki/) if you want to try more dataset of  Bilingual Sentence Pairs
 they all have the same structure ( Tab-delimited Bilingual Sentence Pairs )
 
 # useful links
 
-https://machinelearningmastery.com/tutorial-first-neural-network-python-keras
+[tuto of neural network with python-keras](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras)
 
-https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/
+[how to develop a neural machine translation system](https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/)
 
-https://en.wikipedia.org/wiki/Recurrent_neural_network
+[wiki](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+
 
