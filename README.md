@@ -1,5 +1,5 @@
-# observation 
-this work is in collaboration with my friend Youssef Lachhab so I collaborated with him for his project    [Predict tags on StackOverflow with linear models](https://github.com/youssef-lachhab/IDDL) !  
+# Observation 
+ This work is in collaboration with my friend Youssef Lachhab so I collaborated with him for his project    [Predict tags on StackOverflow with linear models](https://github.com/youssef-lachhab/IDDL) !  
 
 
 # Neural machine translation system
@@ -16,12 +16,15 @@ and during the runtime of  this notebook on google colab I load it in  colab sys
 Visit this website : [Bilingual Sentence Pairs](http://www.manythings.org/anki/) if you want to try more dataset of  Bilingual Sentence Pairs
 they all have the same structure ( Tab-delimited Bilingual Sentence Pairs )
 
-# useful links
+# Useful links
 
 [tuto of neural network with python-keras](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras)
 
 [how to develop a neural machine translation system](https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/)
 
 [wiki](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+
+[Neural machine translation with attention](https://www.tensorflow.org/tutorials/text/nmt_with_attention)
+
 
 
