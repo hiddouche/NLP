@@ -10,7 +10,7 @@ In this project , we  will discover how to develop a neural machine translation 
 
 # Loading  the dataset
   I  uploaded  my dataset  [deu.txt](https://docs.google.com/uc?export=download&id=1LYw_wl5ftE4ejhFPFpfar4lt1HvNKZgN)  in my google drive, i make it public  because its size exceeds the size limit allowed by github (25MB)
-and during the runtime of  this notebook on google colab I load it in  colab system space
+and during the execution of  this notebook on google colab I load it in  colab system space
 
 
 Visit this website : [Bilingual Sentence Pairs](http://www.manythings.org/anki/) if you want to try more dataset of  Bilingual Sentence Pairs
