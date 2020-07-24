@@ -1,3 +1,6 @@
+[video presentation project 1:Neural machine translation system](https://drive.google.com/file/d/1tZdnwC80mT6wmMkI7xZDyRrq8ynvBn0j/view?usp=sharing)
+[video presentation project 2:Predict tags on StackOverflow with linear models](https://drive.google.com/file/d/1ovw8ZOrCeECT2d7_-h-Dcab9zVZQ2uEi/view?usp=sharing) !
+
 # Observation 
  This work is in collaboration with my friend Youssef Lachhab so I collaborated with him for his project    [Predict tags on StackOverflow with linear models](https://github.com/youssef-lachhab/IDDL) !  
 
